@@ -13,4 +13,4 @@ data =   [[4, 5, 6],
 df = pd.DataFrame(data, index = [1, 2, 3], columns=["a","b","c"])
 
 
-print(df['b'].nunique())
+print(df.describe())
