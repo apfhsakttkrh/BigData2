@@ -427,7 +427,7 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
+../week02/.venv
 env/
 venv/
 ENV/
